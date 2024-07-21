@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-21T09:15:21 IST" name="Default suite" finished-at="2024-07-21T09:17:57 IST" duration-ms="155748">
+    <groups>
+    </groups>
+    <test started-at="2024-07-21T09:15:21 IST" name="Default test" finished-at="2024-07-21T09:17:57 IST" duration-ms="155748">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.LoginTest@791f145a]" started-at="2024-07-21T09:15:21 IST" name="SetUpDriver" finished-at="2024-07-21T09:16:13 IST" duration-ms="51230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="TC01_LoginFailureTest()[pri:0, instance:testcases.LoginTest@791f145a]" started-at="2024-07-21T09:16:13 IST" name="TC01_LoginFailureTest" finished-at="2024-07-21T09:16:44 IST" duration-ms="31414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginFailureTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.LoginTest@791f145a]" started-at="2024-07-21T09:16:44 IST" name="TearDown" finished-at="2024-07-21T09:16:45 IST" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.LoginTest@791f145a]" started-at="2024-07-21T09:16:45 IST" name="SetUpDriver" finished-at="2024-07-21T09:17:38 IST" duration-ms="52690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="TC02_LoginSuccessTest()[pri:0, instance:testcases.LoginTest@791f145a]" started-at="2024-07-21T09:17:38 IST" name="TC02_LoginSuccessTest" finished-at="2024-07-21T09:17:55 IST" duration-ms="17489" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_LoginSuccessTest -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:testcases.LoginTest@791f145a]" started-at="2024-07-21T09:17:55 IST" name="TearDown" finished-at="2024-07-21T09:17:57 IST" duration-ms="1657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
