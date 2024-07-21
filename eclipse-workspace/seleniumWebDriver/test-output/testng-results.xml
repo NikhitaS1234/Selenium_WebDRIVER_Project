@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-20T10:07:45 IST" name="Suite" finished-at="2024-07-20T10:07:45 IST" duration-ms="224">
+    <groups>
+      <group name="regression">
+        <method signature="TestNGtcExample.TestCase_01()[pri:0, instance:testNG.TestNGtcExample@58cbafc2]" name="TestCase_01" class="testNG.TestNGtcExample"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2024-07-20T10:07:45 IST" name="Test" finished-at="2024-07-20T10:07:45 IST" duration-ms="224">
+      <class name="testNG.TestNGtcExample">
+        <test-method is-config="true" signature="test1()[pri:0, instance:testNG.TestNGtcExample@58cbafc2]" started-at="2024-07-20T10:07:45 IST" name="test1" finished-at="2024-07-20T10:07:45 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="method1()[pri:0, instance:testNG.TestNGtcExample@58cbafc2]" started-at="2024-07-20T10:07:45 IST" name="method1" finished-at="2024-07-20T10:07:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="TestCase_01()[pri:0, instance:testNG.TestNGtcExample@58cbafc2]" started-at="2024-07-20T10:07:45 IST" name="TestCase_01" finished-at="2024-07-20T10:07:45 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_01 -->
+        <test-method is-config="true" signature="method2()[pri:0, instance:testNG.TestNGtcExample@58cbafc2]" started-at="2024-07-20T10:07:45 IST" name="method2" finished-at="2024-07-20T10:07:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method is-config="true" signature="test2()[pri:0, instance:testNG.TestNGtcExample@58cbafc2]" started-at="2024-07-20T10:07:45 IST" name="test2" finished-at="2024-07-20T10:07:45 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- testNG.TestNGtcExample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
