@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-31T18:49:53 IST" name="Suite" finished-at="2024-12-31T18:51:20 IST" duration-ms="86849">
+    <groups>
+    </groups>
+    <test started-at="2024-12-31T18:49:53 IST" name="Test" finished-at="2024-12-31T18:51:20 IST" duration-ms="86849">
+      <class name="testcases.Tests">
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:49:53 IST" name="SetUpDriver" finished-at="2024-12-31T18:50:07 IST" duration-ms="14076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="tc01_Signup()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:07 IST" name="tc01_Signup" finished-at="2024-12-31T18:50:16 IST" duration-ms="8082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_Signup -->
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:16 IST" name="SetUpDriver" finished-at="2024-12-31T18:50:22 IST" duration-ms="6535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="tc02_loginsucess()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:22 IST" name="tc02_loginsucess" finished-at="2024-12-31T18:50:25 IST" duration-ms="2898" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_loginsucess -->
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:25 IST" name="SetUpDriver" finished-at="2024-12-31T18:50:31 IST" duration-ms="6424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="tc03_loginfailure()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:31 IST" name="tc03_loginfailure" finished-at="2024-12-31T18:50:34 IST" duration-ms="2209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_loginfailure -->
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:34 IST" name="SetUpDriver" finished-at="2024-12-31T18:50:41 IST" duration-ms="7876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="tc04_add1itemchkout()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:41 IST" name="tc04_add1itemchkout" finished-at="2024-12-31T18:50:53 IST" duration-ms="11972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_add1itemchkout -->
+        <test-method is-config="true" signature="SetUpDriver()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:50:53 IST" name="SetUpDriver" finished-at="2024-12-31T18:51:04 IST" duration-ms="10178" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUpDriver -->
+        <test-method signature="tc05_add2itemchkout()[pri:0, instance:testcases.Tests@618b19ad]" started-at="2024-12-31T18:51:04 IST" name="tc05_add2itemchkout" finished-at="2024-12-31T18:51:20 IST" duration-ms="16481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_add2itemchkout -->
+      </class> <!-- testcases.Tests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
